@@ -66,9 +66,9 @@ Projeto desenvolvido para pôr em prática os conhecimentos adquiridos no treina
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
   <img alt="pag1" title="pag1" src="https://raw.githubusercontent.com/RicardoRibeiroJunior/catalogo-api/master/src/assets/pag1.png" width="400px">
-  <img alt="pag1" title="pag2" src="https://raw.githubusercontent.com/RicardoRibeiroJunior/catalogo-api/master/src/assets/pag2.png" width="400px">
-  <img alt="pag1" title="pag3" src="https://raw.githubusercontent.com/RicardoRibeiroJunior/catalogo-api/master/src/assets/pag3.png" width="400px">
-  <img alt="pag1" title="pag4" src="https://raw.githubusercontent.com/RicardoRibeiroJunior/catalogo-api/master/src/assets/pag4.png" width="400px">
+  <img alt="pag2" title="pag2" src="https://raw.githubusercontent.com/RicardoRibeiroJunior/catalogo-api/master/src/assets/pag2.png" width="400px">
+  <img alt="pag3" title="pag3" src="https://raw.githubusercontent.com/RicardoRibeiroJunior/catalogo-api/master/src/assets/pag3.png" width="400px">
+  <img alt="pag4" title="pag4" src="https://raw.githubusercontent.com/RicardoRibeiroJunior/catalogo-api/master/src/assets/pag4.png" width="400px">
 </p>
 
 
